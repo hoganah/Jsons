@@ -3,10 +3,10 @@
   "name": "OUGHTOPEN",
   "pgpsig": "NAH",
   "description": "Json Testing",
-  "image": "http://raw.githubusercontent.com/hoganah/Images/main/Test2%20Icon.png",
   "images": [
     {
       "type": "icon",
+      "size": "48x48",
       "data": "https://raw.githubusercontent.com/hoganah/Images/main/Test2%20Icon.png"
     },
     {
