@@ -1,0 +1,22 @@
+{
+  "asset": "PLAGIARIZER",
+  "name": "PLAGIARIZER",
+  "pgpsig": "NAH",
+  "description": "PLAGIARIZER Description",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/hoganah/Images/main/Rare%20Pepe%20Template.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/hoganah/Images/main/Rare%20Pepe%20Template.png"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/"
+}
+  ]
+}
